@@ -82,7 +82,6 @@ Ahead, let's look at the key seats that will decide the 2025 election, and see w
   - [Wentworth](#wentworth)
   - [Warringah](#warringah)
 
-
 ## held by ALP, at risk of falling to LNP
 
 ### Gilmore
@@ -99,6 +98,9 @@ The Division of Gilmore is a federal electoral division in New South Wales, Aust
 - **Nowra**: In January 2025, Prime Minister Anthony Albanese pledged $5 million towards the Nowra Riverfront Activation Plan, aiming to revitalize the Shoalhaven area by transforming the riverbanks of the Shoalhaven River, enhancing the waterway's health, and creating more green and social spaces. This investment is seen as a strategic move ahead of the federal election, given Nowra's significance in the marginal seat of Gilmore. (News.com.au, 2025)
 - **South Nowra**: Former Transport Minister Andrew Constance criticized the Minns Government's decision to collaborate with Beijing-based Foton Mobility Distribution for a new electric bus manufacturing plant in South Nowra. Constance raised concerns about the extent of local assembly versus reliance on Chinese-manufactured parts. In response, Premier Chris Minns assured that the buses would be assembled in Australia, aiming to create local jobs and reduce offshoring of public transport projects. The proposed 6,000 sqm plant is expected to produce over 100 electric buses for Greater Sydney and create 100 jobs in Shoalhaven, pending council approval. (Daily Telegraph, 2025)
 - **Ulladulla**: The Ulladulla and Milton bypass project, announced in 2019 with an estimated cost of $940 million, has faced delays, leading to frustration among local residents and political figures. The project aims to alleviate traffic congestion and reduce accidents on the Princes Highway. Federal Labor member Fiona Phillips assured the community that planning is progressing, with a contract awarded for the concept design. However, a construction timeline has yet to be confirmed, prompting calls for expedited action. (Daily Telegraph, 2025)
+#### References 
+['News.com.au. (2025, January 13). PM pledges to splash millions on project in marginal seat. Retrieved from https://www.news.com.au/national/federal-election/anthony-albanese-pledges-5m-to-major-nowra-revamp/news-story/6d66d12b08cda2726692d2f0b63d3238', 'Daily Telegraph. (2025, January 30). Former transport minister not on board with Chinese bus biz. Retrieved from https://www.dailytelegraph.com.au/newslocal/thesouthcoastnews/extransport-minister-andrew-constance-questions-south-nowra-ev-plants-chinese-ties/news-story/7bb701b216cc04352c4b8af7e3571cb7', Daily Telegraph. (2025, January 15). 'Just get it done': Bypass anger amid political dogfight. Retrieved from https://www.dailytelegraph.com.au/newslocal/thesouthcoastnews/ulladulla-milton-bypass-residents-frustration-amid-political-fight-over-lifesaving-project/news-story/c70aaba3a45c420f652be16bd113ffd2]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -116,6 +118,9 @@ The Division of Gilmore is a federal electoral division in New South Wales, Aust
 The Division of Menzies is an Australian Electoral Division in Victoria, named in honor of Sir Robert Menzies, Australia's longest-serving Prime Minister. Established in 1984, it encompasses parts of the Boroondara, Manningham, and Whitehorse City Councils.
 
 - **Doncaster**: In the 2024 Victorian local elections, significant changes were implemented across many councils, including the introduction of single-councillor wards and new ward names. These reforms aimed to enhance local governance and representation. Additionally, approximately one million ratepayers who previously had an automatic right to vote were now required to enroll, marking a notable shift in the electoral process. The elections were conducted via postal vote, with ballots mailed out in early October and voting closing on October 25. Results were declared by November 15, 2024. These developments reflect ongoing efforts to improve the electoral system and ensure effective local governance in areas such as Doncaster.
+#### References 
+['Australian Electoral Commission. (n.d.). Profile of the electoral division of Menzies (Vic). Retrieved from https://www.aec.gov.au/menzies', 'Herald Sun. (2024, July 1). Everything you need to know about the 2024 Victorian local council elections. Retrieved from https://www.heraldsun.com.au/leader/melbourne-city/everything-you-need-to-know-about-the-2024-victorian-local-council-elections/news-story/90b8055d563ac695fb47229e055b0259']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -136,6 +141,9 @@ The Division of Lyons is a federal electoral division in Tasmania, Australia, en
 - **Sorell**: In November 2024, Prime Minister Anthony Albanese visited Sorell to announce former state Labor leader Rebecca White as the party's candidate for the federal seat of Lyons in the upcoming election. Albanese praised White's capabilities and expressed confidence in her potential contributions at the federal level.
 - **New Norfolk**: During his January 2025 visit to Tasmania, Federal Opposition Leader Peter Dutton pledged $15,000 for security upgrades at Tynwald Park in New Norfolk. This initiative aims to enhance safety measures in the area, reflecting the Coalition's focus on community security and support for local infrastructure.
 - **St. Helens**: As part of his January 2025 visit, Peter Dutton also announced a $15,000 commitment for security enhancements in Quail Street, St. Helens. This funding is intended to improve safety for residents and business owners, aligning with broader efforts to support regional communities within the Division of Lyons.
+#### References 
+['Cost of living the focus of Peter Dutton’s snap visit to Tasmania. (2025, January 15). The Mercury. Retrieved from https://www.themercury.com.au/news/politics/peter-dutton-visits-brighton-iga-with-liberal-lyons-candidate-susie-bower-during-a-visit-to-tasmania/news-story/4fbdc57bc8ac1ae155d2f21d70bfe3fc', Albo wants 'strongest team possible': White locked in. (2024, November 12). The Mercury. Retrieved from https://www.themercury.com.au/news/tasmania/anthony-albanese-visits-sorell-to-confirm-lyons-candidate-for-upcoming-federal-election/news-story/5954cf8cf690150d393fe41aa79a6a18]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -154,6 +162,9 @@ The Division of Lyons is a federal electoral division in Tasmania, Australia, en
 The Division of Lingiari is an Australian electoral division in the Northern Territory, encompassing the entire territory outside of Darwin, including remote Indigenous communities and the territories of Christmas Island and the Cocos (Keeling) Islands.
 
 - **Alice Springs**: In the lead-up to the 2025 federal election, the Country Liberal Party (CLP) has pre-selected Territory-born federal police officer Lisa Siebert to contest the federal seat of Lingiari against Labor's Marion Scrymgour. Siebert, who grew up in Gunbalanya and Darwin, emphasizes fair representation for the Territory, economic growth, national security, law and order, and free speech. The CLP believes Siebert's deep roots and dedication make her a passionate and effective advocate, capable of bringing real progress to the Territory. Additionally, the Nationals have pledged to support breakaway land councils in the Northern Territory if elected, aiming to decentralize the current bodies managing Aboriginal land and royalties. National Party leader David Littleproud emphasized the need for localized empowerment and bespoke local solutions, diverging from the generalizing tendencies of larger representative bodies. This approach aligns with their opposition to the Voice referendum, which they argue favored Canberra bureaucracy. Current laws would need amendments for the Commonwealth to break up the NT land councils, so the party plans to back traditional owners who wish to form separate councils. Additionally, NT Senator Jacinta Nampijinpa Price, assigned to a new 'government efficiency' platform, confirmed an inquiry into land councils' statutory authorities to address issues like royalty payments and their impacts on communities.
+#### References 
+[{'title': Nationals' sights set on breaking up Territory land councils, 'date': '2025, January 25', 'source': 'The Courier Mail', 'url': 'https://www.couriermail.com.au/news/nationals-to-support-breakaway-aboriginal-land-councils-if-elected-royalty-changes/news-story/f219fc3c87328b9161ada63eb332b769'}, {'title': 'CLP unveils Lingiari candidate ahead of federal election', 'date': '2024, December 1', 'source': 'The Courier Mail', 'url': 'https://www.couriermail.com.au/news/northern-territory/clp-preselects-federal-policewoman-lisa-siebert-as-lingiari-candidate-ahead-of-2025-poll/news-story/7b64779544d2f492e1296d1e4e9a715f'}]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -173,6 +184,9 @@ The Division of Robertson is an Australian electoral division in New South Wales
 
 - **Gosford**: In the lead-up to the 2025 federal election, Gosford has been identified as a key battleground within the Division of Robertson. The Liberal Party is focusing efforts on reclaiming this seat, emphasizing its significance in their broader electoral strategy. (O'Doherty, 2024)
 - **Terrigal**: Terrigal, as part of the Division of Robertson, has seen increased political activity with both major parties vying for support. The area's demographic shifts are influencing campaign strategies ahead of the upcoming federal election. (O'Doherty, 2024)
+#### References 
+['Australian Electoral Commission. (2024). Profile of the electoral division of Robertson (NSW). Retrieved from https://www.aec.gov.au/robertson', O'Doherty, J. (2024, October 24). Beaches or battlers? Libs face tough calls. The Daily Telegraph. Retrieved from https://www.dailytelegraph.com.au/news/opinion/james-odoherty-beaches-or-battlers-libs-facing-tough-calls-after-nsw-byelections/news-story/6db818725f6be909dc0e884a201f3c81]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -192,6 +206,9 @@ The Division of Tangney is an Australian electoral division in Western Australia
 - **Applecross**: Applecross is a riverside suburb within the City of Melville. In the 2022 federal election, the Division of Tangney, which includes Applecross, experienced a significant political shift. Labor candidate Sam Lim achieved a swing of over 11%, winning the seat from the Liberal Party for the first time since 1983 (Australian Electoral Commission, 2022).
 - **Canning Vale**: Canning Vale, spanning parts of the City of Canning and City of Gosnells, is a diverse suburb within the Division of Tangney. The 2022 federal election saw a notable swing towards the Labor Party in Tangney, with Sam Lim securing the seat, reflecting broader voting trends in suburbs like Canning Vale (Australian Electoral Commission, 2022).
 - **Bull Creek**: Bull Creek is a residential suburb in the City of Melville, falling under the Division of Tangney. The 2022 federal election marked a historic change for the division, with Labor's Sam Lim winning the seat, indicating shifting political dynamics in areas including Bull Creek (Australian Electoral Commission, 2022).
+#### References 
+['Australian Electoral Commission. (2022). Profile of the electoral division of Tangney (WA). Retrieved from https://www.aec.gov.au/profiles/wa/tangney.htm']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -211,6 +228,9 @@ The Division of Bullwinkel is a newly established Australian federal electoral d
 - **Toodyay**: Toodyay has been at the center of political discussions due to debates over the naming of the new federal electorate. While the Australian Electoral Commission proposed naming the division after Vivian Bullwinkel, some community members advocated for honoring Alma Beard, a local nurse from Toodyay who was also a victim of the Bangka Island massacre. Despite these appeals, the AEC maintained the original naming decision, emphasizing the national significance of Bullwinkel's contributions.
 - **Northam**: Northam, as part of the newly formed Division of Bullwinkel, has seen increased political activity leading up to the 2025 federal election. The seat is considered notionally held by the Labor Party, but with no incumbent, it is anticipated to be a competitive race. Political parties are actively campaigning in the area, recognizing its strategic importance in the upcoming election.
 - **York**: York, included in the Division of Bullwinkel, is witnessing heightened political engagement as candidates prepare for the 2025 federal election. The creation of this new seat has prompted discussions among residents about representation and the potential impact on local issues. Both major political parties are focusing efforts in York to garner support from the community.
+#### References 
+['Australian Electoral Commission. (2024). Proposed redistribution of Western Australia into electoral divisions. Retrieved from https://www.aec.gov.au/redistributions/2023/wa/proposed-redistribution/', 'Australian Broadcasting Corporation. (2024, July 3). Calls to rename Bullwinkel electorate after Alma Beard. ABC News. Retrieved from https://www.abc.net.au/news/2024-07-03/calls-to-rename-bulliwinkel-electorate-after-alma-beard-wwii-wa/104044408', Green, A. (2024, September 5). 2024 Federal Redistribution – Final Boundaries for Western Australia Released. Antony Green's Election Blog. Retrieved from https://antonygreen.com.au/2025-federal-redistribution-final-boundaries-for-western-australia-released/]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -229,6 +249,9 @@ The Division of Chisholm is an Australian Electoral Division in Victoria, locate
 
 - **Box Hill**: In the lead-up to the 2025 federal election, the Liberal Party has intensified its focus on Victorian seats, including Chisholm, which encompasses Box Hill. Opposition Leader Peter Dutton has been actively campaigning in these areas, highlighting key policy pledges and aiming to connect with local voters. This strategic emphasis underscores the significance of Box Hill and its surrounding suburbs in the upcoming electoral contest.
 - **Mount Waverley**: Mount Waverley, within the Division of Chisholm, has been a focal point in recent political developments. The Liberal Party's decision to endorse former MP Katie Allen as the candidate for Chisholm, following the abolition of the Higgins electorate, has been a notable event. This move reflects the party's strategic adjustments in response to electoral boundary changes affecting areas like Mount Waverley.
+#### References 
+['ABC News. (2025, January 17). Necessity and opportunity: Why Peter Dutton is targeting Victoria. ABC News. Retrieved from https://www.abc.net.au/news/2025-01-17/peter-dutton-liberal-coalition-election-melbourne-seats-chisholm/104828992', 'Herald Sun. (2024, September 8). Libs dump candidate for Melbourne seat, bring back ex-MP. Herald Sun. Retrieved from https://www.heraldsun.com.au/news/victoria/liberal-chisholm-candidate-theo-zographos-axed-in-favour-of-former-mp-katie-allen/news-story/e4a5cfe38514ddabbce201920578ec03']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -246,6 +269,9 @@ The Division of Chisholm is an Australian Electoral Division in Victoria, locate
 The Division of McEwen is a rural electoral division in Victoria, Australia, encompassing parts of the Hume City Council, Macedon Ranges Shire Council, Mitchell Shire Council, Nillumbik Shire Council, and Whittlesea City Council. Named in honor of Sir John McEwen, former Prime Minister of Australia, it has been represented by Rob Mitchell of the Australian Labor Party since 2010.
 
 - **Mernda**: In the recent federal electoral redistribution, all of Mernda has been incorporated into the Division of McEwen. This change aims to better represent the growing population in the area. (Herald Sun, 2024)
+#### References 
+['Australian Electoral Commission. (2024). Profile of the electoral division of McEwen (Vic). Retrieved from https://www.aec.gov.au/mcewen', 'Herald Sun. (2024, September 5). A Victorian electorate has just been axed. Here’s what it means. Retrieved from https://www.heraldsun.com.au/news/victoria/australian-electoral-commission-axes-electorate-of-higgins-in-boundary-shake-up/news-story/1dc5288a651111fa2caa4ee7f925022d']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -266,6 +292,9 @@ The Division of Hunter is an Australian electoral division in New South Wales, n
 - **Singleton**: Singleton's local council elections in 2024 saw the Greens contesting for the first time, indicating a diversification of political engagement in the area. The council maintained a majority of independent councillors, with Labor holding one seat. This development suggests a growing interest in environmental issues within the community.
 - **Muswellbrook**: Muswellbrook Shire Council, composed of twelve councillors elected proportionally, held its local elections in 2024. The council's composition remained stable, with a continued focus on local governance and community issues. The election results underscored the community's preference for consistent representation.
 - **Maitland**: In the 2024 local elections, Maitland City Council underwent significant changes. The Penfold Independents emerged as a major force, securing six seats, while Labor secured four seats. The Liberal Party faced challenges due to missed nomination deadlines, resulting in a reduced presence. These shifts indicate a reconfiguration of political alliances within the council.
+#### References 
+['Australian Electoral Commission. (n.d.). Profile of the electoral division of Hunter (NSW). Retrieved from https://www.aec.gov.au/hunter', 'Results of the 2024 New South Wales local elections in Hunter. (n.d.). In Wikipedia. Retrieved from https://en.wikipedia.org/wiki/Results_of_the_2024_New_South_Wales_local_elections_in_Hunter']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -283,6 +312,9 @@ The Division of Hunter is an Australian electoral division in New South Wales, n
 The Division of Blair is an Australian Electoral Division in Queensland, encompassing parts of the Brisbane City Council, Ipswich City Council, Scenic Rim Regional Council, and Somerset Regional Council. Established in 1998, it is named in honor of Harold Blair, a noted tenor and Aboriginal activist.
 
 - **Ipswich**: In the recent Queensland election, Labor experienced a significant vote collapse in outer Brisbane seats, which has given the Coalition hope of making gains in suburban areas nationwide in the next federal election. The Liberal National Party's historic victory underscores the importance of addressing economic policies for voters struggling with rising living costs. Outgoing Labor Premier Steven Miles faced criticism for not conceding promptly on election night. Labor's primary vote fell by nearly 7%, with inner-city areas performing better than outer suburbs. Pollster Kos Samaras noted a trend of declining Labor support in outer suburbs across multiple states, posing challenges for both Prime Minister Anthony Albanese and Opposition Leader Peter Dutton. While Labor faces difficulties in traditionally safe suburban areas, a drop in Green support in inner-city seats offers potential gains. Albanese plans to emphasize Labor's commitment to workers' rights and higher wages during his Brisbane visit.
+#### References 
+['Australian Electoral Commission. (2019). Profile of the electoral division of Blair (Qld). Retrieved from https://www.aec.gov.au/profiles/Qld/Blair.htm', 'Australian Electoral Commission. (2022). Profile of the electoral division of Blair (Qld). Retrieved from https://www.aec.gov.au/Elections/federal_elections/2022/profiles/qld/blair.htm', 'Wikipedia contributors. (2023, December 15). Division of Blair. In Wikipedia, The Free Encyclopedia. Retrieved from https://en.wikipedia.org/wiki/Division_of_Blair', 'Queensland suburbs send Albanese a huge warning. (2024, October 15). The Daily Telegraph. Retrieved from https://www.dailytelegraph.com.au/news/national/queensland-suburbs-send-albanese-a-huge-warning/news-story/54d7780792de620729e1d8a66beddbef']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -302,6 +334,9 @@ The Division of Reid is an Australian electoral division in New South Wales, enc
 - **Drummoyne**: In the lead-up to the 2022 federal election, the electorate of Reid, which includes Drummoyne, witnessed a significant shift in voter sentiment. Historically a Labor stronghold, the seat had been held by the Liberal Party since 2013. However, in 2022, Labor's Sally Sitou won the seat, marking a return to Labor representation. This change was influenced by local concerns, including cost of living pressures and climate change, which resonated with the electorate's diverse demographic. (ABC News, 2022; Central News, 2022)
 - **Burwood**: Burwood, situated within the Division of Reid, has been a focal point for discussions on climate action. Community groups, such as Climate Action Burwood-Canada Bay, have been active in raising awareness about environmental issues. In the 2022 federal election, these efforts contributed to climate change becoming a decisive issue for voters in the area. (Central News, 2022)
 - **Strathfield**: Strathfield, partially encompassed by the Division of Reid, has experienced notable political activity at the state level. In the 2015 state election, Jodi McKay of the Labor Party won the seat, reflecting the area's leaning towards Labor representation. This trend aligns with the broader political landscape of the inner-western suburbs of Sydney. (Wikipedia, 2024)
+#### References 
+['ABC News. (2022). Reid (Key Seat) - Federal Electorate, Candidates, Results. Retrieved from https://abc.net.au/news/elections/federal/2022/guide/reid', 'Central News. (2022). Voters in crucial Reid electorate turn away from major parties. Retrieved from https://centralnews.com.au/2022/05/20/voters-in-crucial-reid-electorate-turn-away-from-major-parties/', 'Wikipedia. (2024). Croydon, New South Wales. Retrieved from https://en.wikipedia.org/wiki/Croydon,_New_South_Wales']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -320,6 +355,9 @@ The Division of Bruce is an Australian Electoral Division in Victoria, named in 
 
 - **Dandenong North**: Dandenong North is a suburb within the Division of Bruce. In the 2022 federal election, the seat of Bruce was retained by Labor's Julian Hill, who secured 41.47% of the primary vote, reflecting the area's support for the Labor Party. [Australian Electoral Commission, 2022]
 - **Narre Warren**: Narre Warren is part of the Division of Bruce. The 2024 electoral redistribution proposed by the Australian Electoral Commission included parts of Narre Warren within Bruce to balance elector numbers across divisions. [Australian Electoral Commission, 2024]
+#### References 
+['Australian Electoral Commission. (2022). Bruce, VIC, 2022 Tally Room. Retrieved from https://www.aec.gov.au/results/federal_election/2022/house/seats/Bruce.htm', 'Australian Electoral Commission. (2024). Profile of the electoral division of Bruce (Vic). Retrieved from https://www.aec.gov.au/profiles/vic/bruce.htm']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -337,6 +375,9 @@ The Division of Bruce is an Australian Electoral Division in Victoria, named in 
 The Division of Werriwa is an Australian electoral division in New South Wales, established in 1901. It encompasses areas in south-west Sydney, including parts of the Campbelltown, Fairfield, and Liverpool City Councils.
 
 - **Liverpool**: In the 2024 local government elections, Liverpool's political landscape experienced notable changes. The Liberal Party, under Mayor Ned Mannoun, secured a significant victory, winning almost all 50 booths. This shift has implications for the upcoming federal elections, as the Liberals aim to challenge Labor's hold on the Werriwa seat. The suburb of Liverpool is divided between the federal divisions of Hughes and Werriwa, with the southern part falling under Werriwa, represented by Labor's Anne Stanley.
+#### References 
+['Australian Electoral Commission. (2024). Profile of the electoral division of Werriwa (NSW). Retrieved from https://www.aec.gov.au/werriwa', 'Wikipedia contributors. (2025, January 24). Liverpool, New South Wales. In Wikipedia, The Free Encyclopedia. Retrieved from https://en.wikipedia.org/wiki/Liverpool,_New_South_Wales', The Australian. (2024, December 3). Labor moves to shore up 'Whitlam seat' amid captain's pick row. Retrieved from https://www.theaustralian.com.au/nation/labor-moves-to-shore-up-werriwa-amid-barton-preselection-uproar/news-story/eb203b7663663fb4aa65885a3c2fad07]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -354,6 +395,9 @@ The Division of Werriwa is an Australian electoral division in New South Wales, 
 The Division of Shortland is an Australian electoral division in New South Wales, covering parts of the southern Hunter region and the northern part of the Central Coast region. It has been held by the Australian Labor Party since its creation in 1949.
 
 - **Lake Macquarie**: In the 2024 NSW Local Government Election held on 14 September 2024, Lake Macquarie residents voted to elect their local council representatives. The election saw discussions on key issues such as housing development and environmental conservation. The council continues to focus on community engagement and sustainable development initiatives.
+#### References 
+['Australian Electoral Commission. (2024, October 10). Profile of the electoral division of Shortland (NSW). Retrieved from https://www.aec.gov.au/shortland', 'Lake Macquarie City Council. (2024, August 19). How to vote before or on election day? Retrieved from https://www.lakemac.com.au/News-articles/How-to-vote-before-or-on-election-day']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -373,6 +417,9 @@ The Division of Shortland is an Australian electoral division in New South Wales
 The Division of Ryan is an Australian Electoral Division in Queensland, established in 1949 and named after T.J. Ryan, Premier of Queensland from 1915 to 1919. It encompasses the western suburbs of Brisbane and is currently represented by Elizabeth Watson-Brown of the Australian Greens.
 
 - **Brisbane**: In the 2022 federal election, the Greens achieved a significant victory in the Division of Ryan, with Elizabeth Watson-Brown winning the seat from the Liberal National Party's Julian Simmonds. This win was part of a broader trend in Brisbane, where the Greens secured multiple seats, indicating a shift in voter sentiment in the city's inner suburbs. (ABC News, 2022)
+#### References 
+['ABC News. (2022). The shock election result in Queensland that was hiding in plain sight. Retrieved from https://www.abc.net.au/news/2022-05-22/queensland-federal-election-greens-politics-analysis/101088630']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -390,6 +437,9 @@ The Division of Ryan is an Australian Electoral Division in Queensland, establis
 The Division of Brisbane is an Australian electoral division in Queensland, established in 1901. It encompasses inner metropolitan areas of Brisbane, covering approximately 57 square kilometers.
 
 - **Brisbane**: In the 2024 Queensland state election held on October 26, the Liberal National Party (LNP) led by David Crisafulli secured a majority government, ending Labor's decade-long reign. This shift in power reflects a significant change in the state's political landscape. Additionally, in the 2024 Brisbane City Council election on March 16, the LNP maintained its majority, although the Greens increased their representation by gaining the ward of Paddington. These results indicate evolving political dynamics within Brisbane at both the state and local levels.
+#### References 
+['Australian Electoral Commission. (n.d.). Profile of the electoral division of Brisbane (Qld). Retrieved from https://www.aec.gov.au/brisbane', The Guardian. (2024, October 27). David Crisafulli claims LNP victory in Queensland election, ending Labor's decade-long reign. Retrieved from https://www.theguardian.com/australia-news/2024/oct/27/david-crisafulli-claims-lnp-victory-in-queensland-election-ending-labors-decade-long-reign, 'Wikipedia contributors. (2024, March 16). 2024 Brisbane City Council election. In Wikipedia, The Free Encyclopedia. Retrieved from https://en.wikipedia.org/wiki/2024_Brisbane_City_Council_election']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -411,6 +461,9 @@ Indi is an Australian electoral division located in north-east Victoria, encompa
 - **Wodonga**: In the 2023 Australian Indigenous Voice referendum, the Division of Indi, which includes Wodonga, recorded a 66.89% 'No' vote, reflecting significant local opposition to the proposed constitutional change. This outcome aligns with broader regional voting patterns observed across Victoria. (Australian Electoral Commission, 2023)
 - **Wangaratta**: The 2024 Victorian local elections saw active political engagement in Wangaratta, with discussions focusing on local governance and community representation. While specific election results for Wangaratta are not detailed, the broader regional participation indicates a healthy democratic process. (Victorian Electoral Commission, 2024)
 - **Benalla**: In the lead-up to the 2025 Australian federal election, Benalla, as part of the Division of Indi, is witnessing increased political activity. Independent MP Helen Haines continues to advocate for regional issues, emphasizing integrity and regional development, resonating with the local electorate. (Haines, 2025)
+#### References 
+['Australian Electoral Commission. (2023). 2023 Australian Indigenous Voice Referendum Results. Retrieved from https://www.aec.gov.au/referendums/2023/results.htm', 'Victorian Electoral Commission. (2024). 2024 Victorian Local Election Results. Retrieved from https://www.vec.vic.gov.au/results/2024-local-council-election-results', 'Haines, H. (2025). Helen Haines MP - Independent Federal Member for Indi. Retrieved from https://www.helenhaines.org/']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -431,6 +484,9 @@ The Division of Nicholls is a rural electoral division in northern Victoria, Aus
 
 - **Shepparton**: In the 2022 federal election, Shepparton, as part of the Nicholls electorate, witnessed a competitive race where Nationals candidate Sam Birrell succeeded retiring MP Damian Drum. Birrell faced strong challenges from Liberal candidate Steve Brooks and independent Rob Priestly, reflecting a shift in voter sentiment within the region. Additionally, discussions have been ongoing regarding the redistribution of electoral boundaries affecting Shepparton, with proposals suggesting minor changes to the southern parts of the Nicholls electorate. These adjustments aim to balance population changes and maintain effective representation.
 - **Echuca**: Echuca, located within the Division of Nicholls, has been impacted by the proposed federal electoral boundary changes announced in 2024. The Redistribution Committee for Victoria suggested minor adjustments to the southern boundaries of Nicholls, which could influence Echuca's representation. These changes are part of a broader effort to ensure equitable representation across Victoria's federal divisions.
+#### References 
+['Australian Electoral Commission. (2024, October 17). Profile of the electoral division of Nicholls (Vic). Australian Electoral Commission. Retrieved from https://www.aec.gov.au/nicholls', 'Allison, C., & Howe, C. (2022, May 22). Nicholls election result sees Coalition stronghold collapse in northern Victorian seat. ABC News. Retrieved from https://www.abc.net.au/news/2022-05-22/nicholls-election-result-sees-coalition-stronghold-collapse/101089264', 'Archibald, D. (2024, June 14). Proposed federal electoral divisions for Victoria. Shepparton News. Retrieved from https://www.sheppnews.com.au/news/proposed-federal-electoral-divisions-for-victoria/']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -448,6 +504,9 @@ The Division of Nicholls is a rural electoral division in northern Victoria, Aus
 The Division of Groom is an Australian Electoral Division in Queensland, established in 1984 and named after Sir Littleton Groom, a former Speaker of the Australian House of Representatives. It encompasses the regional city of Toowoomba and surrounding rural communities on the Darling Downs.
 
 - **Toowoomba**: In the 2022 federal election, independent candidate Suzie Holt contested the seat of Groom, which includes Toowoomba, finishing fourth on primary votes but achieving 42.89% after preferences, indicating a significant challenge to the incumbent Liberal National Party representative. Additionally, in the 2024 Queensland state election, the Liberal National Party secured a majority government, with David Crisafulli becoming the new Premier, which may influence local policies in Toowoomba.
+#### References 
+['Australian Electoral Commission. (n.d.). Profile of the electoral division of Groom (Qld). Retrieved from https://www.aec.gov.au/profiles/qld/groom.htm', 'Division of Groom. (2025, January 31). In Wikipedia. Retrieved from https://en.wikipedia.org/wiki/Division_of_Groom', Smee, B. (2022, June 16). 'Startling': Queensland independent polls second in Groom with only 8.3% of primary vote. The Guardian. Retrieved from https://www.theguardian.com/australia-news/2022/jun/16/startling-queensland-independent-polls-second-in-groom-with-only-83-of-primary-vote, '2024 Queensland state election. (2025, January 31). In Wikipedia. Retrieved from https://en.wikipedia.org/wiki/2024_Queensland_state_election']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -472,6 +531,9 @@ The Division of Cowper is an Australian electoral division in New South Wales, e
 - **Port Macquarie**: In September 2024, Adam Roberts was elected as the new mayor of Port Macquarie, succeeding Peta Pinson. Roberts has identified regional congestion as a primary issue and has committed to addressing it as a first priority.
 - **Kempsey**: Kinne Ring was elected as the new mayor of Kempsey in September 2024, replacing retiring mayor Leo Hauville. Ring has emphasized the need for fiscal responsibility to prevent future rate increases.
 - **Nambucca Heads**: In September 2024, local farmer Gary Lee was elected as the new mayor of Nambucca Valley, which includes Nambucca Heads. Lee has pledged to improve law and order and ensure a sustainable budget for the area.
+#### References 
+['Australian Electoral Commission. (2024, October 10). Profile of the electoral division of Cowper (NSW). Retrieved from https://www.aec.gov.au/cowper', 'Daily Telegraph. (2024, September 30). Winds of change sweep four new mayors to power. Retrieved from https://www.dailytelegraph.com.au/newslocal/mid-north-coast/new-coffs-port-macquarie-kempsey-nambucca-mayors-elected-at-september-14-nsw-local-government-elections/news-story/d435a6188bb45dda1453865c78a19e03', Daily Telegraph. (2024, October 17). 'Democratic predicament': Federal hopeful on 'jetty jewel' debate. Retrieved from https://www.dailytelegraph.com.au/news/nsw/coffs-harbour/independent-candidate-for-cowper-caz-heise-weighs-in-on-disputed-coffs-jetty-foreshore-master-plan/news-story/9b210ed657eed7bcc455b00be8aff562]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -490,6 +552,9 @@ The Division of Bradfield is an Australian electoral division in New South Wales
 
 - **St Ives**: In the lead-up to the upcoming federal election, the Liberal Party has selected Gisele Kapterian, a Salesforce executive endorsed by former NSW Premier Gladys Berejiklian, as their candidate for Bradfield. Kapterian secured the preselection by defeating Warren Mundine with a vote of 207 to 171. She aims to focus her campaign on reducing cost-of-living pressures and supporting small businesses. This selection comes as the Liberal Party seeks to retain the seat against independent candidate Nicolette Boele, who previously reduced the Liberal margin in 2022. (News.com.au, 2025)
 - **Lindfield**: Following the announcement of Paul Fletcher's retirement from politics after 15 years, the Liberal Party is preparing for a competitive race in Bradfield. Gisele Kapterian has emerged as the party's candidate, while independent Nicolette Boele continues her campaign after a strong performance in the 2022 election. The upcoming contest is anticipated to be closely watched, given the previous swing against the Liberals in the area. (The Guardian, 2025)
+#### References 
+[News.com.au. (2025). Gladys' pick topples Mundine for key seat. Retrieved from https://www.news.com.au/national/nsw-act/politics/gisele-kapterian-wins-liberal-preselection-for-mustwin-bradfield-electorate/news-story/c0d9e11d245f79949342bb8037e7b2d9, 'The Guardian. (2025). Stage set for teal challenge in blue-ribbon seat of Bradfield as Paul Fletcher resigns. Retrieved from https://www.theguardian.com/australia-news/2024/dec/10/paul-fletcher-resignation-seat-replacement-gisele-kapterian-bradfield-nicolette-boele-liberal-teal-candidates']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -508,6 +573,9 @@ The Division of Wannon is an Australian Electoral Division in the state of Victo
 
 - **Ararat**: In November 2024, independent candidate Alex Dyson visited Ararat to engage with residents and discuss local concerns as part of his campaign for the upcoming federal election. Dyson has previously contested the Wannon seat, positioning himself as a notable challenger to the incumbent Liberal member, Dan Tehan.
 - **Warrnambool**: The Warrnambool City Council election was held in 2024. Following the election, the Victorian Electoral Commission indicated that enrolled voters who appeared not to have voted might receive 'Apparent failure to vote' notices in the subsequent months.
+#### References 
+[The Weekly Advertiser. (2024, November 13). Wannon independent starts 'bottom up' plan. Retrieved from https://theweeklyadvertiser.com.au/articles/wannon-independent-starts-bottom-up-plan/, 'Victorian Electoral Commission. (2024). Warrnambool City Council election. Retrieved from https://www.vec.vic.gov.au/voting/2024-local-council-elections/warrnambool-city-council']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -526,6 +594,9 @@ The Division of Calare is a rural Australian electoral division in New South Wal
 
 - **Mudgee**: In November 2024, Nationals candidate Sam Farraway urged the Prime Minister to ensure Mudgee's air service remains operational, highlighting the town's connectivity concerns. Additionally, Farraway advocated for fairer fuel prices in Mudgee, reflecting ongoing local economic issues. (Farraway, 2024)
 - **Molong**: In December 2024, the Coalition announced a plan to allocate nearly a third of its $5 billion Housing Infrastructure Programme to regional Australia. This initiative aims to fund critical infrastructure, such as roads, power, and water, to support the construction of over 160,000 homes. Former NSW Minister Sam Farraway emphasized that this funding could enable developments in towns like Molong, potentially doubling its size. (Daily Telegraph, 2024)
+#### References 
+['Farraway, S. (2024, November 27). Farraway Takes Flight: Calls on PM to Keep Mudgee Connected. Retrieved from https://www.samfarraway.com.au/news', 'Farraway, S. (2024, November 13). Farraway Takes Next Steps in Pushing for Fairer Fuel Prices for Mudgee. Retrieved from https://www.samfarraway.com.au/news', 'Daily Telegraph. (2024, December 3). How Coalition will tackle housing crisis in the bush. Retrieved from https://www.dailytelegraph.com.au/news/nsw/billions-to-be-pumped-into-infrastructure-in-coalition-plan-to-tackle-regional-australias-housing-crisis/news-story/da8d3f167d8be6f6bb86466b305c3e67']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -547,6 +618,9 @@ The Division of Deakin is an Australian Electoral Division in Victoria, named in
 - **Ringwood**: In the 2022 federal election, the Division of Deakin, which includes Ringwood, was retained by Liberal MP Michael Sukkar by a narrow margin of 375 votes. This slim victory has led to increased political activity in the area, with both major parties focusing efforts on community engagement ahead of the next election. Sukkar's recent newsletter featured 85 photos of himself over 12 pages, highlighting his active presence in the community. This approach has garnered both attention and criticism, indicating the electorate's significance in upcoming political contests.
 - **Croydon**: Croydon, situated within the Division of Deakin, has been a focal point for political engagement following the 2022 federal election. The narrow retention of the seat by Liberal MP Michael Sukkar has prompted intensified efforts from both major parties to connect with the local community. Sukkar's recent newsletter, featuring numerous images of his involvement in local events, underscores the strategic importance of Croydon in the lead-up to future elections.
 - **Blackburn**: Blackburn, located in the western part of the Division of Deakin, has experienced heightened political attention following the closely contested 2022 federal election. The slim margin by which Liberal MP Michael Sukkar retained his seat has led to increased community engagement initiatives by political figures. Sukkar's recent newsletter, containing an extensive array of photographs from local events, reflects the concerted efforts to strengthen ties with Blackburn residents ahead of forthcoming elections.
+#### References 
+['Australian Electoral Commission. (2024). Profile of the electoral division of Deakin (Vic). Retrieved from https://www.aec.gov.au/deakin', 'Michael Sukkar MP. (n.d.). About Deakin. Retrieved from https://www.michaelsukkar.com.au/about-deakin/', 'The Herald Sun. (2024, December 18). The many, many, many faces of Deakin MP Michael Sukkar. Retrieved from https://www.heraldsun.com.au/news/victoria/the-source/the-source-the-many-many-many-faces-of-deakin-mp-michael-sukkar/news-story/d5b5bc57c77e0fd8450525030af01ecf']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -566,6 +640,9 @@ The Division of Bennelong is an Australian electoral division in New South Wales
 - **Ryde**: Ryde is a significant suburb within the Division of Bennelong. In the 2022 federal election, the seat was won by Labor's Jerome Laxale, the former mayor of Ryde, marking only the second time Labor has held Bennelong. This shift was influenced by a notable swing against the Liberal Party among Chinese-Australian voters, a demographic prominent in Ryde. The Liberal Party has since been working to regain support from these communities by emphasizing economic management and support for entrepreneurship (The Australian, 2024).
 - **Epping**: Epping, located within Bennelong, has experienced political shifts in recent years. The suburb was part of the electorate's swing towards Labor in the 2022 federal election, contributing to Jerome Laxale's victory. The changing demographics, including a growing Chinese-Australian population, have influenced voting patterns, with the Liberal Party now focusing efforts to appeal to these communities (The Australian, 2024).
 - **Macquarie Park**: Macquarie Park is a key commercial hub in Bennelong. In the 2022 federal election, the area contributed to the Labor Party's success in the division, with Jerome Laxale securing the seat. The Liberal Party is actively seeking to regain support in such areas by engaging with Chinese-Australian voters, highlighting policies on economic management and entrepreneurship (The Australian, 2024).
+#### References 
+['The Australian. (2024). Liberals seek to regain lost Chinese voters at next election. Retrieved from https://www.theaustralian.com.au/nation/politics/liberals-seek-to-regain-lost-chinese-voters-at-next-election/news-story/60c05547622d80f1bde3a1aa1a40e9c8']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -586,6 +663,9 @@ The Division of Sturt is an Australian electoral division in South Australia, es
 - **Burnside**: The City of Burnside, part of the Division of Sturt, has been a focal point in the 2025 federal election campaigns. Candidates have actively engaged with the community, addressing local issues and concerns. The heightened political activity underscores Burnside's significance within the electorate.
 - **Campbelltown**: Campbelltown, located within the Division of Sturt, has experienced increased political engagement ahead of the 2025 federal election. The area has seen a surge in candidate visits and community forums, reflecting its strategic importance in the electoral contest.
 - **Kensington**: As part of the Division of Sturt, Kensington has been actively involved in the political discourse leading up to the 2025 federal election. The suburb has hosted several political events, with candidates discussing policies pertinent to the local community.
+#### References 
+['Australian Electoral Commission. (n.d.). Profile of the electoral division of Sturt (SA). Retrieved from https://www.aec.gov.au/sturt', 'ABC News. (2022). Sturt (Key Seat) - Federal Electorate, Candidates, Results. Retrieved from https://abc.net.au/news/elections/federal/2022/guide/stur', The Advertiser. (2024, September 16). 'Teal' independent push targets Libs in crucial Adelaide seat. Retrieved from https://www.adelaidenow.com.au/news/south-australia/teal-independent-campaign-targets-liberal-james-stevens-in-adelaide-seat-of-sturt/news-story/66837a4ba713a36776ee1621843d10b6]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -603,6 +683,9 @@ The Division of Sturt is an Australian electoral division in South Australia, es
 The Division of Moore is an Australian federal electoral division in Western Australia, encompassing the majority of the City of Joondalup in Perth's northwest metropolitan area. Established in 1949, it has experienced significant boundary and demographic changes over time.
 
 - **Joondalup**: Joondalup serves as the central hub of the Division of Moore. In the 2022 federal election, the Liberal Party retained the seat with Ian Goodenough as the member. However, in February 2024, Goodenough lost preselection to Vince Connelly, leading to internal party tensions. Goodenough subsequently announced plans to run as an independent in the upcoming election, potentially impacting the Liberal Party's hold on the seat. (Garvey, 2025)
+#### References 
+['Garvey, P. (2025, January 12). Disgruntled ex-Lib in preferences threat. The Australian. Retrieved from https://www.theaustralian.com.au/nation/politics/former-liberal-mp-goodenough-may-send-preferences-to-labor-in-key-wa-seat/news-story/4b295d15575f010ef08c633c60b6aa4d']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -622,6 +705,9 @@ The Division of Moore is an Australian federal electoral division in Western Aus
 The Division of Bass is a federal electoral division in Tasmania, encompassing the city of Launceston and surrounding areas in the state's north-east.
 
 - **Launceston**: In the 2024 Tasmanian state election, the electorate of Bass, which includes Launceston, saw the Liberal Party secure a majority, winning three out of five available seats. This outcome reinforced the Liberal Party's influence in the region. At the federal level, the Division of Bass has been represented by Liberal MP Bridget Archer since 2019. The seat is known for its volatility, having changed hands multiple times between the Liberal and Labor parties in recent elections.
+#### References 
+['Australian Broadcasting Corporation. (2024). Bass results - 2024 State Election. ABC News. Retrieved from https://abc.net.au/news/elections/tas/2024/guide/bass', 'Australian Electoral Commission. (2022). Bass, TAS - AEC Tally Room. Retrieved from https://results.aec.gov.au/27966/Website/HouseDivisionPage-27966-192.htm']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -640,6 +726,9 @@ The Division of Bass is a federal electoral division in Tasmania, encompassing t
 The Division of Dickson is an Australian Electoral Division in Queensland, established in 1992 and named after Sir James Dickson, a leading advocate for Federation and former Premier of Queensland. It encompasses the outer north-western suburbs of Brisbane, including areas such as Albany Creek, Kallangur, and Strathpine.
 
 - **Bray Park**: In the lead-up to the upcoming federal election, the Division of Dickson, which includes suburbs like Bray Park, has garnered significant attention. Independent candidate Ellie Smith, an environmental consultant and former anti-coal seam gas campaigner, has announced her candidacy, challenging incumbent MP and Opposition Leader Peter Dutton. Smith's campaign focuses on local issues such as the cost of living, strengthening the economy, and improving public transport. She emphasizes her commitment to representing the unique needs of Queensland's constituency and has stated that she will not direct preferences to any political party, aiming instead to vote according to the interests of her community if elected. This development highlights the dynamic political landscape in areas like Bray Park within the division. (Courier Mail, 2025)
+#### References 
+[Courier Mail. (2025, January 26). Well-backed 'Maroon' Independent gunning for Dutton's marginal seat. Retrieved from https://www.couriermail.com.au/news/national/federal-election/maroon-independent-ellie-smith-to-take-on-peter-dutton-in-marginal-dickson-seat/news-story/91e3d9f5f8d24e697f6f4031a7afddb0]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -661,6 +750,9 @@ The Division of Cowper is an Australian electoral division in New South Wales, e
 - **Port Macquarie**: In September 2024, Adam Roberts was elected as the new mayor of Port Macquarie, succeeding Peta Pinson. Roberts has identified regional congestion as a primary issue and has committed to addressing it as a first priority.
 - **Kempsey**: Kinne Ring was elected as the new mayor of Kempsey in September 2024, replacing retiring mayor Leo Hauville. Ring has emphasized the need for fiscal responsibility to prevent future rate increases.
 - **Nambucca Heads**: In September 2024, local farmer Gary Lee was elected as the new mayor of Nambucca Valley, which includes Nambucca Heads. Lee has pledged to improve law and order and ensure a sustainable budget for the area.
+#### References 
+['Australian Electoral Commission. (2024, October 10). Profile of the electoral division of Cowper (NSW). Retrieved from https://www.aec.gov.au/cowper', 'Daily Telegraph. (2024, September 30). Winds of change sweep four new mayors to power. Retrieved from https://www.dailytelegraph.com.au/newslocal/mid-north-coast/new-coffs-port-macquarie-kempsey-nambucca-mayors-elected-at-september-14-nsw-local-government-elections/news-story/d435a6188bb45dda1453865c78a19e03', Daily Telegraph. (2024, October 17). 'Democratic predicament': Federal hopeful on 'jetty jewel' debate. Retrieved from https://www.dailytelegraph.com.au/news/nsw/coffs-harbour/independent-candidate-for-cowper-caz-heise-weighs-in-on-disputed-coffs-jetty-foreshore-master-plan/news-story/9b210ed657eed7bcc455b00be8aff562]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -679,6 +771,9 @@ The Division of Bradfield is an Australian electoral division in New South Wales
 
 - **St Ives**: In the lead-up to the upcoming federal election, the Liberal Party has selected Gisele Kapterian, a Salesforce executive endorsed by former NSW Premier Gladys Berejiklian, as their candidate for Bradfield. Kapterian secured the preselection by defeating Warren Mundine with a vote of 207 to 171. She aims to focus her campaign on reducing cost-of-living pressures and supporting small businesses. This selection comes as the Liberal Party seeks to retain the seat against independent candidate Nicolette Boele, who previously reduced the Liberal margin in 2022. (News.com.au, 2025)
 - **Lindfield**: Following the announcement of Paul Fletcher's retirement from politics after 15 years, the Liberal Party is preparing for a competitive race in Bradfield. Gisele Kapterian has emerged as the party's candidate, while independent Nicolette Boele continues her campaign after a strong performance in the 2022 election. The upcoming contest is anticipated to be closely watched, given the previous swing against the Liberals in the area. (The Guardian, 2025)
+#### References 
+[News.com.au. (2025). Gladys' pick topples Mundine for key seat. Retrieved from https://www.news.com.au/national/nsw-act/politics/gisele-kapterian-wins-liberal-preselection-for-mustwin-bradfield-electorate/news-story/c0d9e11d245f79949342bb8037e7b2d9, 'The Guardian. (2025). Stage set for teal challenge in blue-ribbon seat of Bradfield as Paul Fletcher resigns. Retrieved from https://www.theguardian.com/australia-news/2024/dec/10/paul-fletcher-resignation-seat-replacement-gisele-kapterian-bradfield-nicolette-boele-liberal-teal-candidates']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -697,6 +792,9 @@ The Division of Banks is an Australian federal electoral division in New South W
 
 - **Hurstville**: In the lead-up to the 2019 federal election, both the Labor and Liberal parties actively campaigned in Hurstville, recognizing its significant immigrant population. The Liberal Party emphasized economic policies appealing to the entrepreneurial spirit of the Chinese-Australian community, while Labor focused on community services and infrastructure improvements. This strategic focus highlighted the area's growing political importance.
 - **Canterbury-Bankstown**: In the September 2024 local government elections for the City of Canterbury-Bankstown Council, candidates addressed key issues such as housing density, infrastructure, community services, and environmental concerns. The diverse range of policies proposed by candidates from different wards underscored the area's dynamic political landscape.
+#### References 
+[{'author': 'ABC News', 'title': 'Federal Election 2019: Labor and Coalition court immigrant community in key seat of Banks', 'url': 'https://www.abc.net.au/news/2019-05-07/federal-election-banks-electorate-profile-defined-by-migrants/11076730', 'accessed': 'January 31, 2025'}, {'author': 'Daily Telegraph', 'title': 'Profiled: Meet the Canterbury-Bankstown Council candidates', 'url': 'https://www.dailytelegraph.com.au/newslocal/the-express/2024-council-elections-candidates-for-city-of-canterburybankstown-council-profiled/news-story/8ea1a8bd75380ad9462ecf1d69fad74c', 'accessed': 'January 31, 2025'}]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -718,6 +816,9 @@ The Division of Monash is an Australian Electoral Division in Victoria, named in
 - **Wonthaggi**: Wonthaggi, a coastal town in the Bass Coast Shire, has experienced growth due to its appealing coastal lifestyle. In the latest local elections, residents focused on issues such as sustainable development and environmental conservation.
 - **Leongatha**: Leongatha serves as a commercial center for the South Gippsland region. The town's electorate has shown interest in agricultural policies and infrastructure development, which were prominent in the recent local government elections.
 - **Foster**: Foster is a small town known for its proximity to Wilsons Promontory National Park. Environmental preservation and tourism development were key issues for voters in the latest local elections.
+#### References 
+['Australian Electoral Commission. (2024). Profile of the electoral division of Monash (Vic). Retrieved from https://www.aec.gov.au/monash', 'Victorian Electoral Commission. (2024). 2024 Victorian local elections. Retrieved from https://www.vec.vic.gov.au/voting/2024-local-council-elections']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -737,6 +838,9 @@ The Division of Longman is a federal electoral division in Queensland, Australia
 - **Caboolture**: In December 2024, Queensland Labor announced Rhiannyn Douglas, a former teacher at Burpengary State Secondary College, as its candidate for the Longman electorate, which includes Caboolture. Douglas aims to challenge the incumbent MP, Terry Young, in the upcoming federal election (Teacher chosen to challenge two-term MP in battleground seat, 2024).
 - **Burpengary**: Rhiannyn Douglas, a former teacher at Burpengary State Secondary College, was selected by Queensland Labor in December 2024 to contest the Longman electorate. Her candidacy focuses on addressing local issues pertinent to Burpengary residents (Teacher chosen to challenge two-term MP in battleground seat, 2024).
 - **Bribie Island**: The Longman electorate, encompassing Bribie Island, is set for a competitive race in the upcoming federal election. Labor's candidate, Rhiannyn Douglas, is challenging the two-term incumbent, Terry Young, highlighting the island's strategic importance in the electoral contest (Teacher chosen to challenge two-term MP in battleground seat, 2024).
+#### References 
+['Teacher chosen to challenge two-term MP in battleground seat. (2024, December 6). The Courier-Mail. Retrieved from https://www.couriermail.com.au/news/national/federal-election/highenergy-teacher-school-captain-labors-challenger-to-longstanding-mp/news-story/ee982f06b11370f485cc11c0e989e8f8']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -754,6 +858,9 @@ The Division of Longman is a federal electoral division in Queensland, Australia
 The Division of Bonner is an Australian Electoral Division in Queensland, encompassing the eastern suburbs of Brisbane, including areas such as Chandler, Carindale, Manly, Mansfield, Mount Gravatt, Wishart, and Wynnum. Established in 2004, it is named in honor of Neville Bonner, the first Indigenous Australian to serve in the federal parliament.
 
 - **Brisbane**: In recent political developments, the Brisbane City Council is set to vote for a new Deputy Mayor on January 31, 2025, following the resignation of former Deputy Mayor Krista Adams. Councillors Ryan Murphy and Fiona Cunningham are considered frontrunners for the position. Additionally, in the federal seat of Bonner, incumbent MP Ross Vasta has confirmed he will seek re-election, while the Labor Party has endorsed former Morningside Councillor Kara Cook as their candidate. These events highlight the dynamic political landscape in Brisbane as the city prepares for upcoming elections.
+#### References 
+[Revealed: Big names emerge in race for Brisbane's second most powerful job. (2025, January 29). The Courier-Mail. Retrieved from https://www.couriermail.com.au/news/brisbane-city/revealed-the-councillors-tipped-to-be-in-line-for-brisbane-deputy-mayoralty/news-story/8e3180d687f09805de1619fece0aa0db]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -771,6 +878,9 @@ The Division of Bonner is an Australian Electoral Division in Queensland, encomp
 The Division of Leichhardt is a federal electoral division in Queensland, Australia, established in 1949. It encompasses the city of Cairns and extends north to Cape York and the Torres Strait Islands, covering a diverse range of urban, rural, and remote communities.
 
 - **Cairns**: In July 2024, Prime Minister Anthony Albanese visited Cairns to announce a $50 million investment in infrastructure and social housing projects. This funding aims to develop community facilities, including a PCYC, a multicultural centre, and community hubs for Indigenous people, enhancing local amenities and support services.
+#### References 
+['Australian Electoral Commission. (2019). Profile of the electoral division of Leichhardt (Qld). Retrieved from https://www.aec.gov.au/leichhardt', 'Prime Minister of Australia. (2024, July 19). Press conference - Cairns. Retrieved from https://www.pm.gov.au/media/press-conference-cairns-1']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -789,6 +899,9 @@ The Division of Nicholls is a rural electoral division in northern Victoria, Aus
 
 - **Shepparton**: In the 2022 federal election, Shepparton, as part of the Nicholls electorate, witnessed a competitive race where Nationals candidate Sam Birrell succeeded retiring MP Damian Drum. Birrell faced strong challenges from Liberal candidate Steve Brooks and independent Rob Priestly, reflecting a shift in voter sentiment within the region. Additionally, discussions have been ongoing regarding the redistribution of electoral boundaries affecting Shepparton, with proposals suggesting minor changes to the southern parts of the Nicholls electorate. These adjustments aim to balance population changes and maintain effective representation.
 - **Echuca**: Echuca, located within the Division of Nicholls, has been impacted by the proposed federal electoral boundary changes announced in 2024. The Redistribution Committee for Victoria suggested minor adjustments to the southern boundaries of Nicholls, which could influence Echuca's representation. These changes are part of a broader effort to ensure equitable representation across Victoria's federal divisions.
+#### References 
+['Australian Electoral Commission. (2024, October 17). Profile of the electoral division of Nicholls (Vic). Australian Electoral Commission. Retrieved from https://www.aec.gov.au/nicholls', 'Allison, C., & Howe, C. (2022, May 22). Nicholls election result sees Coalition stronghold collapse in northern Victorian seat. ABC News. Retrieved from https://www.abc.net.au/news/2022-05-22/nicholls-election-result-sees-coalition-stronghold-collapse/101089264', 'Archibald, D. (2024, June 14). Proposed federal electoral divisions for Victoria. Shepparton News. Retrieved from https://www.sheppnews.com.au/news/proposed-federal-electoral-divisions-for-victoria/']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -806,6 +919,9 @@ The Division of Nicholls is a rural electoral division in northern Victoria, Aus
 The Division of Hughes is an Australian electoral division in New South Wales, established in 1955 and named in honor of former Prime Minister William Morris 'Billy' Hughes. It encompasses parts of the Campbelltown City Council, Liverpool City Council, and Sutherland Shire Council areas.
 
 - **Liverpool**: Liverpool is a significant suburb within the Division of Hughes. In the 2022 federal election, the Liberal Party's Jenny Ware was elected as the Member for Hughes, securing 57.01% of the two-candidate preferred vote. In the 2021 local government elections, Liverpool's council consisted of four Labor councillors, four Liberals, two members of the Liverpool Community Independents Team (LCIT), and a directly elected mayor, Ned Mannoun. At the state level, the suburb is divided between the Electoral districts of Liverpool and Holsworthy, represented by Labor's Charishma Kaliyanda and Liberal's Tina Ayyad, respectively.
+#### References 
+['Australian Electoral Commission. (2023). Profile of the electoral division of Hughes (NSW). Retrieved from https://www.aec.gov.au/hughes', 'Australian Electoral Commission. (2022). First preference count for the division of Hughes (NSW). Retrieved from https://results.aec.gov.au/27966/Website/HouseDivisionPage-27966-124.htm', 'Wikipedia contributors. (2025, January 24). Liverpool, New South Wales. In Wikipedia, The Free Encyclopedia. Retrieved from https://en.wikipedia.org/wiki/Liverpool,_New_South_Wales']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -824,6 +940,9 @@ The Division of Flynn is a federal electoral division in Queensland, Australia, 
 
 - **Gladstone**: In January 2025, Federal Member for Flynn, Colin Boyce, was unanimously re-endorsed by the Liberal National Party (LNP) as their candidate for the seat of Flynn, which he has held since 2022. Boyce emphasized his commitment to standing up for the Flynn electorate, highlighting his efforts in securing funding for Central Queensland and advocating for cost-of-living relief for struggling households. He also outlined the Coalition's plan to address issues such as low inflation, affordable housing, and safer communities. The next federal election is scheduled to be held by May 2025.
 - **Biloela**: In November 2024, Flynn MP Colin Boyce advocated for the federal government to consider nuclear power as a solution for Australia's energy future. He argued that renewable energy projects are detrimental to regional areas in Queensland and proposed nuclear power to revitalize towns like Biloela and secure high-paying jobs. Boyce highlighted that the upcoming closure of coal-fired power plants, such as the Callide Power Station near Biloela, would result in significant job losses and economic downturn in local communities. He emphasized the need to explore nuclear energy to ensure economic stability and preserve agricultural land.
+#### References 
+['Boyce, C. (2025, January 13). Boyce re-endorsed by LNP for Flynn. Retrieved from https://www.colinboyce.com.au/boyce-re-endorsed-by-lnp-for-flynn/', 'Destroyed': Regional MP makes big renewables call in nuclear push. (2024, November 20). Retrieved from https://www.couriermail.com.au/news/queensland/bundaberg/flynn-mp-colin-boyce-makes-pitch-for-nuclear-power-in-australia/news-story/602316d205aa17d95ea633294ace9ccc]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -843,6 +962,9 @@ The Division of Wannon is an Australian Electoral Division in the state of Victo
 
 - **Ararat**: In November 2024, independent candidate Alex Dyson visited Ararat to engage with residents and discuss local concerns as part of his campaign for the upcoming federal election. Dyson has previously contested the Wannon seat, positioning himself as a notable challenger to the incumbent Liberal member, Dan Tehan.
 - **Warrnambool**: The Warrnambool City Council election was held in 2024. Following the election, the Victorian Electoral Commission indicated that enrolled voters who appeared not to have voted might receive 'Apparent failure to vote' notices in the subsequent months.
+#### References 
+[The Weekly Advertiser. (2024, November 13). Wannon independent starts 'bottom up' plan. Retrieved from https://theweeklyadvertiser.com.au/articles/wannon-independent-starts-bottom-up-plan/, 'Victorian Electoral Commission. (2024). Warrnambool City Council election. Retrieved from https://www.vec.vic.gov.au/voting/2024-local-council-elections/warrnambool-city-council']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -860,6 +982,9 @@ The Division of Wannon is an Australian Electoral Division in the state of Victo
 The Division of Forde is an Australian Electoral Division in Queensland, established in 1984 and named after Frank Forde, who briefly served as Prime Minister in 1945. It encompasses areas south of Brisbane, including parts of the Gold Coast and Logan City councils.
 
 - **Beenleigh**: Beenleigh, located within the Division of Forde, has been a focal point in recent political discussions, particularly concerning law and order policies. In the lead-up to the 2024 Queensland state election, debates intensified over youth justice reforms, with significant attention from both major parties. These discussions have had a direct impact on communities like Beenleigh, where concerns about crime and safety are paramount. The election results indicated a shift in voter sentiment, reflecting the community's response to these pressing issues. (The Guardian, 2024)
+#### References 
+['The Guardian. (2024, October 9). A bizarre game of political chicken? How Queensland lurched to the right on law and order. Retrieved from https://www.theguardian.com/australia-news/2024/oct/09/a-bizarre-game-of-political-chicken-how-queensland-lurched-to-the-right-on-law-and-order-election-2024']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -878,6 +1003,9 @@ The Division of Forrest is an Australian Electoral Division in Western Australia
 
 - **Bunbury**: In the 2022 federal election, the Division of Forrest, which includes Bunbury, saw the Liberal Party's Nola Marino retain her seat with 43.12% of the vote, a 9.36% decrease from the previous election. The Australian Labor Party's candidate, Bronwen English, received 27.44% of the vote, marking a 6.29% increase. The Greens candidate, Christine Terrantroy, secured 13.44% of the vote, a slight increase of 0.60%. These results indicate a shift in voter preferences within the division. (Australian Electoral Commission, 2022)
 - **Busselton**: The city of Busselton, part of the Division of Forrest, participated in the 2022 federal election where incumbent Liberal MP Nola Marino was re-elected. The election results showed a swing against the Liberal Party, with a 9.36% decrease in their primary vote, while the Labor Party and the Greens experienced increases of 6.29% and 0.60% respectively. This suggests a changing political landscape in the area. (Australian Electoral Commission, 2022)
+#### References 
+['Australian Electoral Commission. (2022). 2022 federal election results for the Division of Forrest. Retrieved from https://www.aec.gov.au/Elections/federal_elections/2022/results/divisions/forrest.htm']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -898,6 +1026,9 @@ The Division of Petrie is an Australian Electoral Division in Queensland, establ
 - **Redcliffe**: In the 2022 federal election, the Division of Petrie, which includes Redcliffe, saw incumbent MP Luke Howarth of the Liberal National Party retain his seat with 54.4% of the vote, marking the seat as marginal. In the 2024 Queensland state election, Kerri-Anne Dooley was elected as the Member for Redcliffe, representing the Liberal National Party, contributing to the party's return to government at the state level.
 - **Clontarf**: Clontarf, situated within the Division of Petrie, has been part of the electorate's shifting political landscape. The area has experienced changes in representation, reflecting broader electoral trends within the division.
 - **Kippa-Ring**: Kippa-Ring, located in the Division of Petrie, has been involved in the electorate's evolving political dynamics. The suburb has witnessed alterations in political representation, aligning with the division's overall electoral shifts.
+#### References 
+['Australian Electoral Commission. (2019). Profile of the electoral division of Petrie (Qld). Retrieved from https://www.aec.gov.au/petrie', 'Division of Petrie. (2024, December 20). In Wikipedia. Retrieved from https://en.wikipedia.org/wiki/Division_of_Petrie', 'Luke Howarth MP. (2024, November 1). Hey Queenslanders: change is here! Retrieved from https://lukehowarth.com.au/latest-news-2/', 'ABC News. (2022). Petrie - Federal Electorate, Candidates, Results. Retrieved from https://www.abc.net.au/news/elections/federal/2022/guide/petr']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -916,6 +1047,9 @@ The Division of Durack is an Australian Electoral Division in Western Australia,
 
 - **Geraldton**: In the lead-up to the 2025 federal election, the Liberal Party is focusing efforts on Western Australia, with Opposition Leader Peter Dutton expressing confidence in reclaiming seats such as Tangney and Curtin. The newly created electorate of Bullwinkel, which draws voters from Durack, is also a key target. Dutton emphasized the importance of Western Australia in the upcoming election, stating, 'I think on election night we’ll be looking west to see the results.' (The West Australian, 2025)
 - **Kununurra**: Prime Minister Anthony Albanese visited Kununurra alongside Labor candidate Karen Wheatland, highlighting the party's commitment to regional areas within Durack. Wheatland emphasized her deep connection to the region, stating, 'Born and bred in Geraldton, I've fished the entire coastline of Durack.' This visit underscores Labor's strategy to strengthen its presence in traditionally Liberal-held regions ahead of the federal election. (Prime Minister of Australia, 2025)
+#### References 
+['The West Australian. (2025). Western Australia the kingmaker again as election heats up. Retrieved from https://thewest.com.au/opinion/editorial-western-australia-the-kingmaker-again-as-election-heats-up--c-17536424', 'Prime Minister of Australia. (2025). Press conference - Kununurra. Retrieved from https://www.pm.gov.au/media/press-conference-kununurra']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -935,6 +1069,9 @@ The Division of Bowman is an Australian Electoral Division in Queensland, encomp
 - **Cleveland**: Cleveland serves as the central business district of Redland City and plays a pivotal role in the political landscape of the Division of Bowman. In the 2022 federal election, the residents of Cleveland, along with the broader Bowman electorate, elected Henry Pike of the Liberal National Party as their Member of Parliament. Pike has since been active in local issues, including advocating for infrastructure improvements and community services.
 - **Capalaba**: Capalaba is a significant commercial and residential hub within the Division of Bowman. The suburb has been a focal point for political discussions, especially concerning urban development and transportation. In recent times, local representatives have engaged with Capalaba residents to address concerns related to public transport connectivity and sustainable development, reflecting the community's active participation in shaping its future.
 - **Redland Bay**: Redland Bay, located at the southern end of the Division of Bowman, has experienced substantial growth, leading to increased political attention on managing development and environmental conservation. The area's expansion has prompted discussions among local and state politicians about balancing residential development with the preservation of natural habitats, ensuring sustainable growth that aligns with community values.
+#### References 
+['Australian Electoral Commission. (2019). Profile of the electoral division of Bowman (Qld). Retrieved from https://www.aec.gov.au/profiles/qld/bowman.htm', 'Parliament of Australia. (n.d.). Mr Henry Pike MP. Retrieved from https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300120']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -954,6 +1091,9 @@ The Division of Bowman is an Australian Electoral Division in Queensland, encomp
 The Division of Curtin is an Australian electoral division in Western Australia, named in honor of John Curtin, Australia's 14th Prime Minister. Established in 1949, it encompasses inner metropolitan areas of Perth.
 
 - **Perth**: In the 2022 federal election, the Division of Curtin, which includes parts of Perth, saw Independent candidate Kate Chaney win the seat, defeating the Liberal incumbent. This shift was part of a broader trend in Western Australia, where several seats changed hands, contributing to the Australian Labor Party's significant gains in the state (Australian Electoral Commission, 2022).
+#### References 
+['Australian Electoral Commission. (2022). 2022 federal election results. Retrieved from https://www.aec.gov.au/Elections/Federal_Elections/2022/results.htm']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -973,6 +1113,9 @@ Kooyong is an Australian Electoral Division in Victoria, encompassing affluent i
 - **Kew**: In the 2022 federal election, the electorate of Kooyong, which includes Kew, witnessed a historic shift when independent candidate Dr. Monique Ryan unseated incumbent Liberal MP and Treasurer Josh Frydenberg. This marked the first time since its creation that the seat was not held by the Liberal Party or its predecessors. Dr. Ryan's campaign focused on climate action and political integrity, resonating with the local constituents. In the lead-up to the 2025 federal election, the Liberal Party has intensified efforts to reclaim Kooyong, with strategies aimed at challenging the voting records and positions of incumbent independents like Dr. Ryan.
 - **Hawthorn**: Hawthorn, as part of the Kooyong electorate, played a pivotal role in the 2022 federal election where Dr. Monique Ryan secured a victory over the sitting Liberal MP. This change reflected a broader movement within inner-Melbourne suburbs towards independent representation focused on progressive policies. As the 2025 federal election approaches, political dynamics in areas like Hawthorn are under close observation, with major parties strategizing to regain influence in these traditionally conservative strongholds.
 - **Balwyn**: The suburb of Balwyn falls within the Kooyong division, which experienced a significant political upheaval in the 2022 federal election when independent Dr. Monique Ryan defeated long-standing Liberal MP Josh Frydenberg. This outcome was part of a larger trend in Melbourne's inner-east, where voters showed increased support for independent candidates advocating for enhanced climate policies and governmental transparency. In preparation for the 2025 federal election, the Liberal Party is actively campaigning to win back seats like Kooyong, focusing on contrasting their policies with those of the current independent representatives.
+#### References 
+['Australian Electoral Commission. (2024, October 17). Profile of the electoral division of Kooyong (Vic). Retrieved from https://www.aec.gov.au/kooyong', 'Juanola, M. P. (2022, May 23). Independent Monique Ryan claims victory over Josh Frydenberg in Kooyong. The Age. Retrieved from https://www.theage.com.au/politics/federal/independent-monique-ryan-claims-victory-over-josh-frydenberg-in-kooyong-20220523-p5an6a.html', News.com.au. (2025, January 13). 'The truth': Inside plan to wipe out Teals. Retrieved from https://www.news.com.au/national/federal-election/senator-james-patterson-reveals-liberals-plan-to-beat-teals/news-story/743ad73b47aa6a4afd6a2d1b5e30ed7c]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -991,6 +1134,9 @@ The Division of Goldstein is an Australian Electoral Division in Victoria, estab
 
 - **Brighton**: In the 2022 federal election, the Division of Goldstein, which includes Brighton, experienced a significant political shift. Independent candidate Zoe Daniel, a former journalist, won the seat, defeating the incumbent Liberal MP Tim Wilson. This marked the first time the seat was not held by the Liberal Party, reflecting a broader trend of 'teal' independents gaining support in traditionally Liberal strongholds (ABC News, 2022).
 - **Sandringham**: The Division of Goldstein, encompassing Sandringham, saw a notable political change in the 2022 federal election. Independent candidate Zoe Daniel secured the seat, unseating the Liberal incumbent Tim Wilson. This outcome was part of a larger movement where independent candidates made significant inroads into traditional Liberal territories (ABC News, 2022).
+#### References 
+['ABC News. (2022). Goldstein - Federal Electorate, Candidates, Results. Retrieved from https://abc.net.au/news/elections/federal/2022/guide/gold']
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -1008,6 +1154,9 @@ The Division of Goldstein is an Australian Electoral Division in Victoria, estab
 The Division of Mackellar is an Australian electoral division in New South Wales, established in 1949. It encompasses Sydney's Northern Beaches, covering an area of 233 square kilometers.
 
 - **Northern Beaches**: In the 2022 federal election, local GP Sophie Scamps was elected as an Independent, defeating the incumbent Liberal MP Jason Falinski. This marked the first time the seat was won by an Independent. In the lead-up to the 2025 federal election, Dr. Scamps is seeking grassroots support to bolster her campaign against a potential Liberal resurgence. She emphasizes her achievements in environmental protection and cost of living relief, while advocating for future-focused legislation. The Liberal Party has nominated former Army officer James Brown as their candidate, who criticizes Dr. Scamps for a perceived lack of tangible achievements and plans to focus his campaign on improving living costs and national defense.
+#### References 
+['Australian Electoral Commission. (2024). Profile of the electoral division of Mackellar (NSW). Retrieved from https://www.aec.gov.au/mackellar', 'ABC News. (2022). Mackellar - Federal Electorate, Candidates, Results. Retrieved from https://abc.net.au/news/elections/federal/2022/guide/mack', The Daily Telegraph. (2024, October 27). Backed by fundraising giant, 'teal' MP seeks grassroots donors., The Daily Telegraph. (2024, November 15). New Liberal candidate to take fight to Teals' track-record.]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -1025,6 +1174,9 @@ The Division of Mackellar is an Australian electoral division in New South Wales
 The Division of Wentworth is an Australian electoral division in New South Wales, encompassing suburbs to the east of Sydney's central business district, including areas within Waverley Council, Woollahra Municipal Council, and parts of Randwick City Council and the City of Sydney.
 
 - **Bondi**: In November 2022, Wentworth's first climate action forum, 'Powering Wentworth to Net-Zero,' was held at the newly renovated Bondi Pavilion. The event featured discussions on transitioning to net-zero emissions, with participation from energy experts and community leaders.
+#### References 
+['Australian Electoral Commission. (n.d.). Profile of the electoral division of Wentworth (NSW). Retrieved from https://www.aec.gov.au/wentworth', Allegra Spender. (n.d.). Allegra Spender MP - Wentworth's Independent. Policies - Climate. Retrieved from https://www.allegraspender.com.au/policies/climate]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
@@ -1043,6 +1195,9 @@ The Division of Warringah is an Australian electoral division in New South Wales
 
 - **Manly**: In the lead-up to the 2025 federal election, the Liberal Party has endorsed former TV sports presenter Jaimee Rogers to contest the Warringah seat against incumbent Zali Steggall. Rogers aims to address economic issues and improve local infrastructure and services, positioning herself as an advocate for mental health and community welfare. She faces the task of overcoming Steggall's 11 percent margin to reclaim the formerly Liberal stronghold. (O'Rourke, 2024)
 - **North Manly**: The Manly-Warringah Gymnastics Club has secured a $5.15 million federal government grant to build a new state-of-the-art gymnastics and indoor sports centre at the former North Manly Bowling Club site. This facility is expected to serve over 2,000 members and 300,000 visitors annually, providing significant local economic and social benefits. (Daily Telegraph, 2025)
+#### References 
+[O'Rourke, J. (2024, December 2). Liberals tune in to former TV host to take on Steggall. The Daily Telegraph. Retrieved from https://www.dailytelegraph.com.au/newslocal/manly-daily/jaimee-rogers-liberals-tune-in-to-former-tv-presenter-to-win-back-warringah-seat-from-zali-steggall/news-story/994a0b5accc05daa2354bf5f2c10aac2, Daily Telegraph. (2025, January 15). 'Historic moment': Sport snares $5m for world-class Sydney facility. The Daily Telegraph. Retrieved from https://www.dailytelegraph.com.au/newslocal/manly-daily/manly-warringah-gymnastics-club-received-5m-to-build-centre-of-excellence-on-derelict-bowling-club-site/news-story/eb8c95107e0ac654f6e362577a3b5455]
+
 
 | Type | Affiliation | Candidate | Volunteer to Help |
 | ------- | ------- | ------- | ------- |
